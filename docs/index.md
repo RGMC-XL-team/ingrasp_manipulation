@@ -1,4 +1,4 @@
-# <div style="text-align: center;"> Robotic In-Hand Manipulation for <br> Large-Range Precise Object Movement: <br> The RGMC Champion Solution </div>
+# Robotic In-Hand Manipulation for <br> Large-Range Precise Object Movement: <br> The RGMC Champion Solution
 
 <p style="text-align: center;"> 
 <a href="./Appendix.pdf" style="color: #0ABAB5; text-decoration: underline;">Appendix (gradients)</a> | 
