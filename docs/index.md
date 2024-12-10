@@ -2,7 +2,7 @@
 
 <p style="text-align: center;"> 
 <a href="./Appendix.pdf" style="color: #0ABAB5; text-decoration: underline;">Appendix (gradients)</a> | 
-<a href="https://github.com/Mingrui-Yu/DLO_planning_2" style="color: #0ABAB5; text-decoration: underline;">Code (comming soon)</a>
+<a href="https://github.com/RGMC-XL-team/ingrasp_manipulation" style="color: #0ABAB5; text-decoration: underline;">Code (comming soon)</a>
 </p>
 
 The proposed approach won the championship of the in-hand manipulation track of the 9th Robotic Grasping and Manipulation Competition (RGMC) held at ICRA 2024. Additionally, it was awarded the Most Elegant Solution among all tracks of the RGMC.
