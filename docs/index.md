@@ -6,7 +6,7 @@
 
 </p>
 
-The proposed approach won the championship of the in-hand manipulation track of the 9th Robotic Grasping and Manipulation Competition (RGMC) held at ICRA 2024. Additionally, it was awarded the Most Elegant Solution among all tracks of the RGMC.
+The proposed approach won the **championship** of the in-hand manipulation track of the [9th Robotic Grasping and Manipulation Competition (RGMC)](https://cse.usf.edu/~yusun/rgmc/2024.html) held at ICRA 2024. Additionally, it was awarded the **Most Elegant Solution** among all tracks of the RGMC.
 
 The paper has been submitted to IEEE RA-L.
 
