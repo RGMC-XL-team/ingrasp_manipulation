@@ -1,9 +1,9 @@
 # Robotic In-Hand Manipulation for <br> Large-Range Precise Object Movement: <br> The RGMC Champion Solution
 
 <p style="text-align: center;"> 
+<a href="https://arxiv.org/abs/2502.07472" style="color: #0ABAB5; text-decoration: underline;">arXiv</a> |
 <a href="https://github.com/RGMC-XL-team/ingrasp_manipulation" style="color: #0ABAB5; text-decoration: underline;">Code</a> |
 <a href="./Appendix.pdf" style="color: #0ABAB5; text-decoration: underline;">Appendix</a>
-
 </p>
 
 The proposed approach won the **championship** of the in-hand manipulation track of the [9th Robotic Grasping and Manipulation Competition (RGMC)](https://cse.usf.edu/~yusun/rgmc/2024.html) held at ICRA 2024. Additionally, it was awarded the **Most Elegant Solution** among all tracks of the RGMC.
