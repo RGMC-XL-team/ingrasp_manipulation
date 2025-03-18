@@ -2,7 +2,7 @@
 
 [[Project Website](https://rgmc-xl-team.github.io/ingrasp_manipulation)]
 
-Repository for the paper _Robotic In-Hand Manipulation for Large-Range Precise Object Movement: The RGMC Champion Solution_, submitted to RA-L, 2024.
+Repository for the paper _Robotic In-Hand Manipulation for Large-Range Precise Object Movement: The RGMC Champion Solution_, IEEE Robotics and Automation Letters, 2024.
 
 In this repository, we provide:
 
