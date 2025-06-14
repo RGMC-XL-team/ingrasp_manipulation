@@ -134,7 +134,7 @@ class Simulation:
 # --------------------------------------
 def test1():
     rospack = rospkg.RosPack()
-    urdf_path = os.path.join(rospack.get_path("my_robot_description"), "urdf/leaphand.urdf")
+    urdf_path = os.path.join(rospack.get_path("my_robot_description"), "urdf/leaphand_taskA.urdf")
     robot_model = LeapHandPinocchio(urdf_path=urdf_path)
 
     sim = Simulation(robot_model=robot_model)
